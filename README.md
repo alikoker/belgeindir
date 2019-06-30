@@ -1,8 +1,3 @@
----
-
-
----
-
 <p><strong>Belgeindir bir belge arama ve indirme programıdır. Sayısız sunucuda istediğiniz konudaki belgeleri, e-kitapları ve sunumları sizin için bulur. Bunları görüntülemenizi ve kısa sürede indirmenizi sağlar.</strong></p>
 <p><img src="https://cdn-images-1.medium.com/max/1500/1*edFlk-wbjn5YA64O6S25wg.jpeg" alt=""></p>
 <p><strong>Kullanımı</strong></p>
@@ -65,10 +60,3 @@
 <p><strong>Gelen Mesajlar Üzerine Bilgilendirme</strong></p>
 <p>1.3 sürümü itibariyle, sunucu yazılımlarının güncellenmesinden dolayı bazı dosya türlerinde önizleme sorunu olmaktadır. Bu sorun sonraki sürümde giderilecektir.</p>
 <p>Kullanıcılar geçici bir çözüm için “Ayarlar” sekmesinden “Varsayılan Görüntüleyici” seçeneğini değiştirebilir.</p>
-<ul>
-<li>List item</li>
-</ul>
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
-
